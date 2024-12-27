@@ -9,7 +9,7 @@ Overall network structure of MSDCrack:
 
 ## Data availability
 
-The details are shown in our [paper](https://doi.org/10.1016/j.autcon.2024.105884). If you need code for academic research, please contact 2462937589@qq.com, znwj_cs@csust.edu.cn
+The details are shown in our [paper](https://doi.org/10.1016/j.autcon.2024.105884). If you need code for academic research, please contact 2462937589@qq.com, znwj_cs@csust.edu.cn.
 
 DeepCrack dataset is available at https://github.com/yhlleo/DeepCrack.
 
